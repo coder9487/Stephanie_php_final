@@ -1,0 +1,16 @@
+body {
+    Font-family: Microsoft JhengHei;
+	background-image: url( '../img/board.jpg' );
+}
+
+textarea{
+	resize:none;
+}
+
+.breadcrumb {
+	background-color: rgba(245,245,245,0);
+}
+
+.breadcrumb>li+li:before {
+    color: #337AB7;
+}
